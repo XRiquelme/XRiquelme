@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XRiquelme
 - 👀 I’m interested in learn
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 
 <!---
 XRiquelme/XRiquelme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
